@@ -17,7 +17,7 @@ First, you need clone this repository:
 
 After that, you need to install the project packages:
 
-###`npm install`
+### `npm install`
 
 In the project directory, you can run:
 
