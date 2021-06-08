@@ -2,7 +2,7 @@
 
 ## Link to GitHub pages
 
-Click here to view the application [GitHub Search App](https://github.com).
+Click here to view the application [GitHub Search App](https://vladyslav2020.github.io/github-search-app/).
 
 ## Description
 This app allows you to find any user on GitHub.
@@ -14,9 +14,10 @@ First, you need clone this repository:
 
 ### `git clone git@github.com:Vladyslav2020/github-search-app.git`
 
-After that, you need to install packages of the project:
 
-### `npm install`
+After that, you need to install the project packages:
+
+###`npm install`
 
 In the project directory, you can run:
 
